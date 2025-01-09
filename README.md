@@ -1,14 +1,21 @@
 # Install Necessary Dependencies
-1.	Install the dependencies:
+### `Install the dependencies`
+   
 Run the following command to install all the required dependencies, including react-scripts:
-`npm install`
-2.	Check if react-scripts is in your package.json:
-Ensure that react-scripts is listed in the dependencies or devDependencies section of your package.json file. If it’s missing, you can install it manually by running:
-	`npm install react-scripts --save `
 
-3.	Try starting the app :
+	npm install
+
+### `Check if react-scripts is in your package.json`
+   
+Ensure that react-scripts is listed in the dependencies or devDependencies section of your package.json file. If it’s missing, you can install it manually by running:
+
+	npm install react-scripts --save 
+ 
+### `Try starting the app`
+   
 After the installation is complete, try running:
-	`npm start`
+
+	npm start
 
 # Getting Started with Create React App
 
